@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SATYAM-BHARTI](https://github.com/SATYAM-BHARTI)
 
-- 📫 How to reach me **Tsatyams449@gmail.com**
+- 📫 How to reach me **Tsatyams449@gmail.com** **https://www.linkedin.com/in/satyam-bharti-9898a321a/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
