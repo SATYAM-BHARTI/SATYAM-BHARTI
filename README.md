@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Bharti</h1>
 <h3 align="center">A passionate frontend and Android App developer from India</h3>
 
-- 🌱 I’m currently learning **App Development using Kotlin**
+- 🌱 I’m currently Developing Apps using **React Native and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SATYAM-BHARTI](https://github.com/SATYAM-BHARTI)
 
